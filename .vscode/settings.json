@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/awslabs/goformation/master/schema/cloudformation.schema.json": [
+            "file:///c%3A/Users/m7m9d/Desktop/iac-activity-t3c7-sat/sample-template.yml",
+            "file:///c%3A/Users/m7m9d/Desktop/iac-activity-t3c7-sat/networks.yml"
+        ]
+    }
+}
